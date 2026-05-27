@@ -2,6 +2,10 @@
 
 极简风格的个人链接展示页，类似 Linktree，使用 Vite + React + Tailwind CSS 构建。
 
+## 🖼️ 预览
+
+![预览截图](./screenshot.png)
+
 ## 快速开始
 
 ```bash

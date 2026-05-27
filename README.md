@@ -2,6 +2,12 @@
 
 极简风格的个人链接展示页，类似 Linktree，使用 Vite + React + Tailwind CSS 构建。
 
+**在线演示：** [https://xiangmu1-nu.vercel.app](https://xiangmu1-nu.vercel.app)
+
+**GitHub 仓库：** [https://github.com/szxyes77/linkhub](https://github.com/szxyes77/linkhub)
+
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/szxyes77/linkhub)
+
 ## 🖼️ 预览
 
 ![预览截图](./screenshot.png)
